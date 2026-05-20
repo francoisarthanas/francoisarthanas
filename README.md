@@ -1,4 +1,6 @@
-## Hi there 👋
+## My name if Francois Arthanas 👋 
+
+Welcome to my Github 
 
 <!--
 **francoisarthanas/francoisarthanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
