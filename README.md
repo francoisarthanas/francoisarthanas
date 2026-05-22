@@ -49,14 +49,6 @@ name: Francois B. Arthanas
 role: Founder and CEO @ Cyber Pros 
 credentials: [ "Ph.D. Scholar", "CISSP", "CISA", "AAIA" ]
 
-focus:
-  - Agentic AI Governance
-  - AI Risk Management
-  - Cybersecurity Governance
-  - AI Assurance & Audit Readiness
-  - Responsible AI Adoption
-  - Digital Trust
-
 currently_working_on:
   - Governance frameworks for autonomous AI agents
   - Security controls for agentic AI systems
@@ -84,22 +76,6 @@ ask_me_about:
 | **AI Assurance** | Evidence, explainability, traceability, documentation, and audit readiness |
 | **Human Oversight** | Human-in-the-loop and human-on-the-loop governance models |
 | **Secure AI Adoption** | Identity, access, logging, monitoring, incident response, and operational controls for AI systems |
-
----
-
-## Content & Resources
-
-I share insights, training, and educational content on cybersecurity, AI governance, digital trust, and responsible technology adoption.
-
-- 🌐 [Website](https://cyberprostraining.com/)
-- 🧠 [Agentic AI Governance Practitioner Program](https://cy-ber.pro/agentic-ai-governance)
-- 🛡️ [Cyber Pros Advisory](https://cyberprosadvisory.com/)
-- 👥 [Cyber Pros Community](https://www.skool.com/cyber-pros-community-9205)
-- 🎓 [Cyber Pros Academy](https://www.skool.com/cyber-pros-academy)
-- 🎥 [YouTube](https://www.youtube.com/@Francois-B-Arthanas)
-- 💼 [LinkedIn](https://www.linkedin.com/in/francoisbarthanas/)
-- 📸 [Instagram](https://www.instagram.com/francoisarthanas/)
-
 ---
 
 > Our Mission at Cyber Pros is to prepares professionals and organizations to lead Agentic AI Governance, manage AI risk, and implement responsible AI programs aligned with AIUC-1, NIST AI RMF, ISO/IEC 42001, and the EU AI Act."
