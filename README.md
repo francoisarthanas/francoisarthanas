@@ -1,59 +1,53 @@
-## My name if Francois Arthanas 👋 
+# Hi, I'm Francois B. Arthanas 👋
 
-Welcome to my Github 
+### Ph.D. Scholar · CISSP · CISA · AAIA · Founder @ Cyber Pros
 
-<!--
-**francoisarthanas/francoisarthanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Focused on Agentic AI Governance, AI Assurance, Cybersecurity Governance, and Digital Trust
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/Website-Cyber%20Pros-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cyberprostraining.com/)
+[![Agentic AI Governance](https://img.shields.io/badge/Agentic%20AI%20Governance-Practitioner-purple?style=for-the-badge&logo=openai&logoColor=white)](https://cy-ber.pro/agentic-ai-governance)
+[![YouTube](https://img.shields.io/badge/YouTube-Francois%20B.%20Arthanas-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Francois-B-Arthanas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francois%20B.%20Arthanas-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francoisbarthanas/)
+[![Instagram](https://img.shields.io/badge/Instagram-Francois%20Arthanas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/francoisarthanas/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 
+---
 
+## About Me
 
-# About Me
+I'm **Francois B. Arthanas**, a **Ph.D. Scholar**, **CISSP**, **CISA**, **AAIA**, and Founder of **Cyber Pros**. My work focuses on the intersection of **Agentic AI Governance**, **cybersecurity**, **AI assurance**, **audit readiness**, and **digital trust**.
 
-I’m **Francois B. Arthanas**, a **Ph.D. Scholar**, **CISSP**, **CISA**, **AAIA**, and Founder of **Cyber Pros**. My work sits at the intersection of **cybersecurity, AI assurance, digital trust, and Agentic AI Governance**.
+I explore how organizations can safely design, deploy, monitor, and govern AI systems that are increasingly autonomous, tool-using, and decision-capable. As AI agents begin to reason, plan, call tools, access systems, and act on behalf of humans and organizations, governance must evolve beyond traditional AI policy.
 
-I focus on how organizations can safely design, deploy, monitor, and govern AI systems that are increasingly autonomous, tool-using, and decision-capable. As agentic AI becomes more embedded in business processes, security operations, compliance workflows, and critical decision environments, governance must evolve beyond traditional AI policy. It must address autonomy, accountability, identity, access, auditability, human oversight, and operational risk.
+My mission is to help build a future where AI agents are not only powerful, but also **secure, governable, transparent, auditable, and accountable**.
 
-My research and professional interests include:
+```yaml
+name: Francois B. Arthanas
+role: Ph.D. Scholar | Founder @ Cyber Pros
+credentials: [ "CISSP", "CISA", "AAIA" ]
 
-- **Agentic AI Governance** and responsible autonomy
-- **AI risk management, assurance, and audit readiness**
-- **Cybersecurity governance, risk, and compliance**
-- **AI-enabled security operations and decision support**
-- **Trustworthy, transparent, and accountable AI systems**
-- **Controls for autonomous agents, tool use, and delegated actions**
-- **Human-in-the-loop and human-on-the-loop oversight models**
-- **Security, privacy, and compliance implications of AI adoption**
+focus:
+  - Agentic AI Governance
+  - AI Risk Management
+  - Cybersecurity Governance
+  - AI Assurance & Audit Readiness
+  - Responsible AI Adoption
+  - Digital Trust
 
-Through my academic work and leadership at **Cyber Pros**, I aim to help bridge the gap between emerging AI capabilities and the governance structures needed to manage them responsibly. I am especially interested in developing practical frameworks that allow organizations to adopt agentic AI while maintaining strong security, ethical accountability, regulatory alignment, and measurable control.
+currently_working_on:
+  - Governance frameworks for autonomous AI agents
+  - Security controls for agentic AI systems
+  - Audit models for AI reasoning, tool use, and delegated actions
+  - Human oversight models for AI-driven workflows
+  - Practical training on Agentic AI Governance
 
-This GitHub page serves as a space where I share research ideas, technical notes, governance models, AI security concepts, and projects related to the future of secure and responsible agentic systems.
+ask_me_about:
+  - Agentic AI Governance
+  - AI security and assurance
+  - Cybersecurity GRC
+  - AI risk, compliance, and audit
+  - Responsible AI implementation
+  - Cybersecurity leadership
 
-## Current Focus
-
-My current focus is on building and exploring governance approaches for **Agentic AI systems**—AI systems that can reason, plan, use tools, interact with environments, and act with varying levels of autonomy.
-
-Key questions guiding my work include:
-
-- How should autonomous AI agents be identified, authenticated, authorized, and monitored?
-- What controls are needed before an AI agent can take action on behalf of a human or organization?
-- How can organizations audit agent behavior, decisions, prompts, tool calls, and outcomes?
-- What governance models are needed for multi-agent systems and AI-driven workflows?
-- How can cybersecurity and audit principles be adapted for agentic AI environments?
-
-## Mission
-
-My mission is to contribute to a future where AI agents are not only powerful, but also **secure, governable, transparent, and accountable**.
-
-I believe Agentic AI Governance will become a foundational discipline for organizations seeking to adopt autonomous AI responsibly. My goal is to support that evolution through research, practical frameworks, and secure-by-design thinking.
+Our mission at Cyber Pros is to prepares professionals and organizations to lead Agentic AI Governance, manage AI risk, and implement responsible AI programs aligned with AIUC-1, NIST AI RMF, ISO/IEC 42001, and the EU AI Act.
