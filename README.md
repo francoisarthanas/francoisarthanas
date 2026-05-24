@@ -175,16 +175,13 @@ ask_me_about:
 
 
 
+#STUDENT SAMPLE STARTS HERE 
 
-
-
-gsdflkahjsd;fansd
 
 # Hi, I'm [Your Name] 👋
 
 ### AI Governance, Risk & Compliance Practitioner | NIST AI RMF, ISO/IEC 42001 & EU AI Act | AI Risk, Controls & Compliance
 
-#### Focused on Responsible AI, AI Risk Management, Governance Documentation, Human Oversight, Vendor AI Risk, and Compliance Readiness
 
 <p align="left">
   <a href="[Your LinkedIn URL]" target="_blank">
@@ -202,7 +199,7 @@ gsdflkahjsd;fansd
 
 ## About Me
 
-I'm **[Your Name]**, an aspiring **AI Governance, Risk, and Compliance Practitioner** focused on helping organizations responsibly evaluate, document, and govern AI systems.
+I'm **[Your Name]**, an **AI Governance, Risk, and Compliance Practitioner** focused on helping organizations responsibly evaluate, document, and govern AI systems.
 
 My work focuses on practical AI governance: identifying AI risks, documenting AI use cases, assessing controls, reviewing vendor AI systems, supporting human oversight, and preparing governance evidence for leadership review.
 
@@ -217,8 +214,6 @@ I am building hands-on experience applying major AI governance frameworks, inclu
 I am especially interested in how organizations can safely deploy AI systems that affect people, business decisions, financial outcomes, compliance obligations, and trust.
 
 My goal is to support responsible AI adoption by helping organizations make AI systems more **governable, explainable, fair, accountable, monitored, and compliant**.
-
----
 
 ## Core Areas of Interest
 
@@ -249,21 +244,8 @@ The system used a third-party AI model to evaluate small business loan applicati
 
 Because the system affected access to credit and automated approximately **94% of application decisions**, I assessed it as a high-risk AI use case.
 
-My work included:
 
-- AI system profile and governance intake
-- AI risk register and mitigation summary
-- Human oversight and applicant appeal procedure
-- Third-party vendor and model governance review
-- EU AI Act, NIST AI RMF, and ISO/IEC 42001 framework mapping
-- Production readiness decision memo
-
-**Final recommendation:** Proceed with conditions.
-
-[View the Project Repository]([Insert GitHub Project Link])
-
-
-
+[View the Project Repository]([https://github.com/francoisarthanas/AI-Governance-Portfolio-Project-Automated-Loan-Underwriting-System]) -> Replace this link with your own portfolio link and then remove this
 
 
 
