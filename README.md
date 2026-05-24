@@ -178,6 +178,67 @@ ask_me_about:
 
 
 
+gsdflkahjsd;fansd
+
+
+
+
+
+
+
+# Hi, I'm [Your Name] 👋
+
+### AI Governance, Risk & Compliance Practitioner | NIST AI RMF, ISO/IEC 42001 & EU AI Act | AI Risk, Controls & Compliance
+
+#### Focused on Responsible AI, AI Risk Management, Governance Documentation, Human Oversight, Vendor AI Risk, and Compliance Readiness
+
+<p align="left">
+  <a href="[Your LinkedIn URL]" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="[Your Portfolio or Personal Website URL]" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:[Your Email Address]">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+I'm **[Your Name]**, an aspiring **AI Governance, Risk, and Compliance Practitioner** focused on helping organizations responsibly evaluate, document, and govern AI systems.
+
+My work focuses on practical AI governance: identifying AI risks, documenting AI use cases, assessing controls, reviewing vendor AI systems, supporting human oversight, and preparing governance evidence for leadership review.
+
+I am building hands-on experience applying major AI governance frameworks, including:
+
+- **NIST AI Risk Management Framework**
+- **ISO/IEC 42001**
+- **EU AI Act**
+- Responsible AI and AI assurance concepts
+- AI risk, control, monitoring, and evidence practices
+
+I am especially interested in how organizations can safely deploy AI systems that affect people, business decisions, financial outcomes, compliance obligations, and trust.
+
+My goal is to support responsible AI adoption by helping organizations make AI systems more **governable, explainable, fair, accountable, monitored, and compliant**.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
