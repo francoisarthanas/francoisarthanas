@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/-Cyber%20Pros%20Advisory-111111?style=for-the-badge&logo=shield&logoColor=white" alt="Teams Training" />
   </a>
   <a href="https://cy-ber.pro/agent-vault" target="_blank">
-    <img src="https://img.shields.io/badge/-Cyber%20Pros%20Community-2E7D32?style=for-the-badge&logo=skool&logoColor=white" alt="The Agent Vault" />
+    <img src="https://img.shields.io/badge/-The%20Agent%20Vault-2E7D32?style=for-the-badge&logo=skool&logoColor=white" alt="The Agent Vault" />
   </a>
   <a href="https://cy-ber.pro/1-day-workshop" target="_blank">
     <img src="https://img.shields.io/badge/-Cyber%20Pros%20Academy-1565C0?style=for-the-badge&logo=skool&logoColor=white" alt="1-Day Workshopy" />
