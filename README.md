@@ -1,11 +1,11 @@
 # Hi, I'm Francois B. Arthanas 👋
 
-### Founder & CEO @ Cyber Pros - Ph.D. Scholar · CISSP · CISA · AAIA · 
+### Founder & CEO @ Cyber Pros AI - Ph.D. Scholar · CISSP · CISA · AAIA · 
 
 #### Focused on Agentic AI Governance, AI Assurance, Cybersecurity Governance, and Digital Trust
 
 <p align="left">
-  <a href="https://cyberprostraining.com/" target="_blank">
+  <a href="https://www.cyberprosai.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://cy-ber.pro/agentic-ai-governance" target="_blank">
@@ -23,14 +23,14 @@
 </p>
 
 <p align="left">
-  <a href="https://cyberprosadvisory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Cyber%20Pros%20Advisory-111111?style=for-the-badge&logo=shield&logoColor=white" alt="Cyber Pros Advisory" />
+  <a href="https://cy-ber.pro/teams" target="_blank">
+    <img src="https://img.shields.io/badge/-Cyber%20Pros%20Advisory-111111?style=for-the-badge&logo=shield&logoColor=white" alt="Teams Training" />
   </a>
-  <a href="https://www.skool.com/cyber-pros-community-9205" target="_blank">
-    <img src="https://img.shields.io/badge/-Cyber%20Pros%20Community-2E7D32?style=for-the-badge&logo=skool&logoColor=white" alt="Cyber Pros Community" />
+  <a href="https://cy-ber.pro/agent-vault" target="_blank">
+    <img src="https://img.shields.io/badge/-Cyber%20Pros%20Community-2E7D32?style=for-the-badge&logo=skool&logoColor=white" alt="The Agent Vault" />
   </a>
-  <a href="https://www.skool.com/cyber-pros-academy" target="_blank">
-    <img src="https://img.shields.io/badge/-Cyber%20Pros%20Academy-1565C0?style=for-the-badge&logo=skool&logoColor=white" alt="Cyber Pros Academy" />
+  <a href="https://cy-ber.pro/1-day-workshop" target="_blank">
+    <img src="https://img.shields.io/badge/-Cyber%20Pros%20Academy-1565C0?style=for-the-badge&logo=skool&logoColor=white" alt="1-Day Workshopy" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 ## About Me
 
-I'm **Francois B. Arthanas**, a **Ph.D. Scholar**, **CISSP**, **CISA**, **AAIA**, and Founder of **Cyber Pros**. My work focuses on the intersection of **Agentic AI Governance**, **cybersecurity**, **AI assurance**, **audit readiness**, and **digital trust**.
+I'm **Francois B. Arthanas**, a **Ph.D. Scholar**, **CISSP**, **CISA**, **AAIA**, and Founder & CEO of **Cyber ProsAI**. My work focuses on the intersection of **Agentic AI Governance**, **Cybersecurity**, **AI Assurance**, **AAI GRC**, and **AI Risk**.
 
 I explore how organizations can safely design, deploy, monitor, and govern AI systems that are increasingly autonomous, tool-using, and decision-capable. As AI agents begin to reason, plan, call tools, access systems, and act on behalf of humans and organizations, governance must evolve beyond traditional AI policy.
 
@@ -46,7 +46,7 @@ My mission is to help build a future where AI agents are not only powerful, but 
 
 ```yaml
 name: Francois B. Arthanas
-role: Founder and CEO @ Cyber Pros 
+role: Founder and CEO @ CyberProsAI
 credentials: [ "Ph.D. Scholar", "CISSP", "CISA", "AAIA" ]
 
 currently_working_on:
